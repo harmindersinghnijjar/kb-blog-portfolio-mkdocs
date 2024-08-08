@@ -9,7 +9,7 @@ site_description: >-
   Harminder Singh Nijjar's personal website and blog.
 
 # Copyright
-copyright: Copyright &copy; 2023 Harminder Singh Nijjar
+copyright: Copyright &copy; 2024 Harminder Singh Nijjar
 
 
 
@@ -191,63 +191,45 @@ extra:
 nav:
   - Home: index.md
   - Projects:
-      - Current projects: projects/index.md
-      - Dubbing pipeline:
-        - Dub with ElevenLabs Google Chrome Extension: projects/dubbing_pipeline/dub_with_elevenlabs.md
-      - Midjourney Automation Bot:
-        - Wiki:
-          - Midjourney Automation Bot: projects/midjourney_automation_bot/wiki/midjourney_automation_bot_overview.md
-          - Features:
-            - Requested features:
-              - Automated Instagram image uploading with advanced captioning: projects/midjourney_automation_bot/wiki/features/requested_features/automated_instagram_image_uploading_with_advanced_captioning.md
-              - Improved Documentation: projects/midjourney_automation_bot/wiki/features/requested_features/improved_documentation.md
-      - RunescapeGPT:
-        - Wiki:
-          - RunescapeGPT: projects/runescapegpt/wiki/runescapegpt_overview.md
-      - Social media automation:
-        - Instagram:
-          - Unfollowing non-followers: projects/social_media_automation/instagram/unfollowing_non_followers/unfollowing_non_followers.md
-        - Truth Social:
-          - Account cloning:
-            - Downloading media: projects/social_media_automation/truth_social/account_cloning/downloading_media/downloading_media.md
-      - Web scraping:
-        - Web scraping overview: projects/web_scraping/web_scraping_overview.md
-        - Facebook:
-          - Facebook Marketplace:
-            - Bright Data Facebook Marketplace Scraper: projects/web_scraping/facebook/facebook_marketplace/bright_data_facebook_marketplace_scraper.md
-            - Oxylabs Facebook Marketplace Scraper: projects/web_scraping/facebook/facebook_marketplace/oxylabs_facebook_marketplace_scraper.md
-            - Smartproxy Facebook Marketplace Scraper: projects/web_scraping/facebook/facebook_marketplace/smartproxy_facebook_marketplace_scraper.md
-      - Websites:
-        - Vercel:
-          - GitBute:
-            - 3D GitHub Contributions: projects/websites/vercel/gitbute/3d_github_contributions/3d_github_contributions.md
-               
-        - MkDocs:
-          - Adding Assets:
-              - Additional CSS:
-                  - Tailwind CSS: projects/websites/mkdocs/knowledge_base/adding_assets/additional_css/tailwind_css/setup_material_mkdocs_insiders_tailwind.md
-  - Areas: 
-      - Areas of Interest: areas/index.md
-      - Culture and Arts:
-        - Recreation and entertainment:
-          - Games:
-            - Sports:
-              - Combat sports:
-                - Material arts:
-                  - Brazilian Jiu-Jitsu:
-                    - Overview: areas/culture_and_arts/recreation_and_entertainment/games/sports/combat_sports/material_arts/brazilian_jiu_jitsu.md     
-            - Video games:
-              - Video game hardware platforms:
-                - Cloud gaming:
-                  - Amazon Luna:
-                    - Amazon Luna: areas/culture_and_arts/recreation_and_entertainment/games/video_games/video_game_hardware_platforms/cloud_gaming/amazon_luna.md
-                  - Netflix Gaming:
-                    - Netflix Gaming: areas/culture_and_arts/recreation_and_entertainment/games/video_games/video_game_hardware_platforms/cloud_gaming/netflix_gaming.md
-                  - Xbox Cloud Gaming:
-                    - Xbox Cloud Gaming: areas/culture_and_arts/recreation_and_entertainment/games/video_games/video_game_hardware_platforms/cloud-gaming/xbox_cloud_gaming.md  
-          - Music:
-            - Lofi:
-              - Top 100: areas/culture_and_the_arts/recreation_and_entertainment/music/lofi/top_100_lofi_songs.md
+      - 2024:
+        - Overview: projects/2024/current_projects.md
+      - Archive:
+        - 2023:
+          - Overview: projects/archived/2023/current_projects.md
+          - Dubbing pipeline:
+            - Dub with ElevenLabs Google Chrome Extension: projects/archived/2023/dubbing_pipeline/dub_with_elevenlabs.md
+          - Midjourney Automation Bot:
+            - Wiki:
+              - Midjourney Automation Bot: projects/archived/2023/midjourney_automation_bot/wiki/midjourney_automation_bot_overview.md
+              - Features:
+                - Requested features:
+                  - Automated Instagram image uploading with advanced captioning: projects/archived/2023/midjourney_automation_bot/wiki/features/requested_features/automated_instagram_image_uploading_with_advanced_captioning.md
+                  - Improved Documentation: projects/archived/2023/midjourney_automation_bot/wiki/features/requested_features/improved_documentation.md
+          - RunescapeGPT:
+            - Wiki:
+              - RunescapeGPT: projects/archived/2023/runescapegpt/wiki/runescapegpt_overview.md
+          - Social media automation:
+            - Instagram:
+              - Unfollowing non-followers: projects/archived/2023/social_media_automation/instagram/unfollowing_non_followers/unfollowing_non_followers.md
+            - Truth Social:
+              - Account cloning:
+                - Downloading media: projects/archived/2023/social_media_automation/truth_social/account_cloning/downloading_media/downloading_media.md
+          - Web scraping:
+            - Web scraping overview: projects/archived/2023/web_scraping/web_scraping_overview.md
+            - Facebook:
+              - Facebook Marketplace:
+                - Bright Data Facebook Marketplace Scraper: projects/archived/2023/web_scraping/facebook/facebook_marketplace/bright_data_facebook_marketplace_scraper.md
+                - Oxylabs Facebook Marketplace Scraper: projects/archived/2023/web_scraping/facebook/facebook_marketplace/oxylabs_facebook_marketplace_scraper.md
+                - Smartproxy Facebook Marketplace Scraper: projects/archived/2023/web_scraping/facebook/facebook_marketplace/smartproxy_facebook_marketplace_scraper.md
+          - Websites:
+            - Vercel:
+              - GitBute:
+                - 3D GitHub Contributions: projects/archived/2023/websites/vercel/gitbute/3d_github_contributions/3d_github_contributions.md
+            - MkDocs:
+              - Adding Assets:
+                - Additional CSS:
+                  - Tailwind CSS: projects/archived/2023/websites/mkdocs/knowledge_base/adding_assets/additional_css/tailwind_css/setup_material_mkdocs_insiders_tailwind.md
+
   - Blog:
     - blog/index.md
 

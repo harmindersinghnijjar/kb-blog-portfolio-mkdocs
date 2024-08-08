@@ -45,16 +45,13 @@ permalink: /
       <div class="mb-4 p-8 rounded-lg shadow-2xl hover:shadow-xl hover:-translate-y-1 transform transition bg-teal-100 text-center">
         <h1 class="text-2xl font-bold mb-4 text-teal-900 hover:text-teal-600">Harminder's Knowledge Base</h1>
         <p class="text-teal-700 mb-4">
-          My knowledge base encompasses my work on projects involving object detection, single-board computers, RPA social media and web automation solutions, and more.
+        This is a repository of my personal knowledge that I'm committed to updating whenever I find interesting information, code worth sharing, or any intellectual rabbit hole I go down. My primary interests at the moment are machine learning-based web automation solutions such as web scraping liquidation auctions and online marketplaces, Home Assistant, self-hosted services (Snipe-IT, osTicket), 3D printing and design, and applying robotics to real-world problems.
         </p>
         <p class="text-teal-700 mb-4">
-          Some other areas of interest of mine include: intelligent single and multi-agent systems, cognitive frameworks, and productivity.
-        </p>
-        <p class="text-teal-700 mb-4">
-          I also blog about my experiences and learnings.
+        I'm an undergraduate student at Columbia Basin College enrolled in the Software Development Bachelor of Applied Science (BAS) program.
         </p>
         <div class="mt-6">
-          <a href="https://www.linkedin.com/in/harmindersinghnijjar/" target="_blank" rel="noopener noreferrer" class="text-teal-500 hover:text-teal-600 hover:underline">You can reach out to me on LinkedIn.</a>
+          <a href="https://www.linkedin.com/in/harmindersinghnijjar/" target="_blank" rel="noopener noreferrer" class="text-teal-500 hover:text-teal-600 hover:underline">Connect with me on LinkedIn.</a>
         </div>
       </div>
 

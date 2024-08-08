@@ -1,2 +1,0 @@
-# Religion and belief systems
-

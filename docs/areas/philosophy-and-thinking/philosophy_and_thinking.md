@@ -1,2 +1,0 @@
-# Philosophy and thinking
-

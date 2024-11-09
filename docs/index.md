@@ -162,7 +162,7 @@ permalink: /
   }
 
   // Replace 'yourPlayerName' with the actual player name
-  fetchAndDisplayOSRSWeeklyGains('smfddumbho');
+  fetchAndDisplayOSRSWeeklyGains('xogsherjattx');
 
   // Add an image on the bottom of the card with the remaining height to fill the card
   const osrsWeeklyStatsGainedCard = document.getElementById('osrs-weekly-stats-gained-card');

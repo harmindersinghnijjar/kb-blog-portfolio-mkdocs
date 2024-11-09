@@ -39,19 +39,19 @@ permalink: /
         <!-- Project Card: Home Automation -->
         <div class="p-6 rounded-lg shadow-2xl hover:shadow-xl hover:-translate-y-1 transform transition">
             <h5 class="text-xl font-bold mb-2">Home Automation</h5>
-            <p>Projects involving Home Assistant, Eufy Security, and Valetudo.</p>
+            <p>Projects involving Home Assistant, <a href="https://amzn.to/48NFQRR">Eufy Security</a>, and Valetudo.</p>
         </div>
         <!-- Project Card: Self-Hosting -->
         <div class="p-6 rounded-lg shadow-2xl hover:shadow-xl hover:-translate-y-1 transform transition">
             <h5 class="text-xl font-bold mb-2">Self-Hosting</h5>
-            <p>Managing services like SNIPE-IT and osTicket on self-hosted platforms.</p>
+            <p>Managing services like SNIPE-IT, osTicket, Plex, Jellyfin and <a href="https://gamevau.lt/">GameVault</a> on self-hosted platforms.</p>
         </div>
         <!-- Project Card: 3D Printing -->
         <div class="p-6 rounded-lg shadow-2xl hover:shadow-xl hover:-translate-y-1 transform transition">
             <h5 class="text-xl font-bold mb-2">3D Printing</h5>
-            <p>Using Ender 3 Pro and Autodesk Fusion for various 3D printing projects.</p>
+            <p>Using <a href="https://amzn.to/3UGZtFx">QIDI Tech Plus4</a>, <a href="https://amzn.to/3YWmCWP">QIDI Tech X-Plus3</a>, and Autodesk Fusion for various 3D printing projects.</p>
         </div>
-        
+
         <!-- Add more project cards as needed -->
     </div>
 </body>

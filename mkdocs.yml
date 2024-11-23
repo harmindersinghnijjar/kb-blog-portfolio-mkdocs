@@ -112,7 +112,7 @@ plugins:
   # - git-committers:
   #     repository: harmindersinghnijjar/kb-blog-portfolio-mkdocs
   #     branch: main
-  - git-authors
+  # - git-authors
 
 
 # Extensions

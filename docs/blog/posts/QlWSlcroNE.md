@@ -1,13 +1,25 @@
 ---
 title: Summary and Critical Evaluation of "Obstacles to Cybercrime Investigations"
-description: A comprehensive summary and critical evaluation of the UNODC article "Obstacles to Cybercrime Investigations," covering the key challenges, impacts, and insights gained from the reading.
-authors: [harmindersinghnijjar]
-date: 2024-11-03
-tags: [Cybercrime, Cybercrime Investigations, Law Enforcement Challenges, UNODC, Cybersecurity]
-categories: [Cybersecurity, Criminal Justice, Investigative Challenges]
+description: A detailed summary and critical evaluation of the UNODC article "Obstacles to Cybercrime Investigations," highlighting key challenges, impacts, and insights.
+authors: 
+  - harmindersinghnijjar
+date: 
+  created: 2024-11-03
+tags: 
+  - Cybercrime
+  - Cybercrime Investigations
+  - Law Enforcement Challenges
+  - UNODC
+  - Cybersecurity
+categories: 
+  - Cybersecurity
+  - Criminal Justice
+  - Investigative Challenges
 toc: true
 comments: true
+status: published
 ---
+
 
 # Summary and Critical Evaluation of "Obstacles to Cybercrime Investigations"
 

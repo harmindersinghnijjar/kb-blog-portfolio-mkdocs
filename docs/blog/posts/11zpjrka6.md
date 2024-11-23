@@ -1,13 +1,28 @@
 ---
 title: Building an Indexing Pipeline for LinkedIn Skill Assessments Quizzes Repository
-description: Creating an efficient indexing pipeline for the 'linkedin-skill-assessments-quizzes' repository involves systematic cloning, data processing, indexing, and query service setup. This comprehensive guide will walk you through each step with detailed code snippets, leveraging the `Whoosh` library for indexing.
-authors: [harmindersinghnijjar]
-date: 2023-11-14
-tags: [Python, Whoosh, Indexing, LinkedIn, Skill Assessments, Quizzes]
-categories: [Python, Whoosh, Indexing, LinkedIn, Skill Assessments, Quizzes]
+description: Creating an efficient indexing pipeline for the 'linkedin-skill-assessments-quizzes' repository involves systematic cloning, data processing, indexing, and query service setup. This comprehensive guide will walk you through each step with detailed code snippets, leveraging the Whoosh library for indexing.
+authors:
+  - harmindersinghnijjar
+date: 
+  created: 2023-11-14
+tags: 
+  - Python
+  - Whoosh
+  - Indexing
+  - LinkedIn
+  - Skill Assessments
+  - Quizzes
+categories: 
+  - Python
+  - Whoosh
+  - Indexing
+  - LinkedIn
+  - Skill Assessments
+  - Quizzes
 toc: true
 comments: true
 ---
+
 
 # Building an Indexing Pipeline for LinkedIn Skill Assessments Quizzes Repository
 

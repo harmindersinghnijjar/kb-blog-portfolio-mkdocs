@@ -1,10 +1,21 @@
 ---
 title: Transferring Script Files to Local System or VPS
 description: This document outlines the process for transferring a Python script and setting it up on your local system. The script, in this case, is a Facebook Marketplace Scraper that allows you to collect and manage data from online listings.
-authors: [harmindersinghnijjar]
-date: 2023-11-27
-tags: [Facebook Marketplace Scraper, Python, Google Sheets API, SQLite, Telegram Bot API, Smartproxy]
-categories: [Facebook Marketplace Scraper, Python, Google Sheets API, SQLite, Telegram Bot API, Smartproxy]
+authors:
+  - harmindersinghnijjar
+date: 
+  created: 2023-11-27
+tags: 
+  - Facebook Marketplace Scraper
+  - Python
+  - Google Sheets API
+  - SQLite
+  - Telegram Bot API
+  - Smartproxy
+categories: 
+  - Python
+  - Web Scraping
+  - Automation
 toc: true
 comments: true
 ---

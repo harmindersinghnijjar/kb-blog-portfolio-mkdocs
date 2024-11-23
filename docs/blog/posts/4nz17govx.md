@@ -1,13 +1,23 @@
 ---
 title: Downloading Teri Meri Doriyaann using Python and BeautifulSoup
 description: A step-by-step guide to downloading the latest Teri Meri Doriyaann episode using Python and BeautifulSoup.
-authors: [harmindersinghnijjar]
-date: 2023-12-31
-tags: [Python, BeautifulSoup, Teri Meri Doriyaann, Hindi Serials, Star Network]
-categories: [Python, BeautifulSoup]
+authors:
+  - harmindersinghnijjar
+date: 
+  created: 2023-12-31
+tags: 
+  - Python
+  - BeautifulSoup
+  - Teri Meri Doriyaann
+  - Hindi Serials
+  - Star Network
+categories: 
+  - Python
+  - BeautifulSoup
 toc: true
 comments: true
 ---
+
 
 # Downloading Teri Meri Doriyaann using Python and BeautifulSoup
 

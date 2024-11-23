@@ -9,7 +9,7 @@ site_description: >-
   Harminder Singh Nijjar's personal website and blog.
 
 # Copyright
-copyright: Copyright &copy; 2024 Harminder Singh Nijjar
+copyright: Copyright &copy; 2025 Harminder Singh Nijjar
 
 
 
@@ -91,16 +91,16 @@ plugins:
        separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - awesome-pages
   - mkdocstrings
-  # - ultralytics:
-  #     default_image: "https://github.com/harmindersinghnijjar/face/blob/main/fotor_2023-8-13_21_49_31-fotor-2023081322615.png"
-  #     add_dates: false
-  #     add_authors: false
+  - ultralytics:
+      default_image: "https://github.com/harmindersinghnijjar/face/blob/main/fotor_2023-8-13_21_49_31-fotor-2023081322615.png"
+      add_dates: false
+      add_authors: false
   - minify:
       minify_html: true
-  # - social:
-  #     cards_layout_options:
-  #       background_color: '#151819'
-  #       color: '#5FFFD7'
+  - social:
+      cards_layout_options:
+        background_color: '#151819'
+        color: '#5FFFD7'
   - blog:
       authors_file: 'blog/.authors.yaml'
       post_url_format: "{date}/{slug}"
@@ -157,14 +157,6 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/mkdocs.md
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
   - attr_list
   - md_in_html
 
@@ -185,15 +177,25 @@ extra:
           data: 0
           note: >-
             Thanks for your feedback! Help us improve this page by
-            using our <a href="YOUR_FEEDBACK_URL" target="_blank" rel="noopener">feedback form</a>.
+            using our <a href="https://github.com/harmindersinghnijjar/kb-blog-portfolio-mkdocs/discussions/new?category=general" 
+            target="_blank" rel="noopener">feedback form</a>.
 
 # Page tree
 nav:
   - Home: index.md
   - Projects:
-      - 2024:
-        - Overview: projects/2024/current_projects.md
+      - 2025:
+          - Overview: projects/2025/current_projects.md
+          - Automate OSRS:
+            - Wiki:
+              - WBS: projects/2025/automateosrs/wiki/work_breakdown_structure.md
+              - Overview: projects/2025/automateosrs/wiki/automateosrs_overview.md
+            - Scripts:
+              - Auto Flipper: projects/2025/automateosrs/scripts/auto_flipper.md
+
       - Archive:
+        - 2024:
+          - Overview: projects/archived/2024/current_projects.md
         - 2023:
           - Overview: projects/archived/2023/current_projects.md
           - Dubbing pipeline:

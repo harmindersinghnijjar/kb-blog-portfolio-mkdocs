@@ -1,13 +1,25 @@
 ---
 title: Setting Up RuneLite for Building with IntelliJ IDEA
-description: A step-by-step guide to setting up RuneLite for building with IntelliJ IDEA.
-authors: [harmindersinghnijjar]
-date: 2024-02-04
-tags: [RuneLite, IntelliJ IDEA, JDK 11, Maven]
-categories: [RuneLite, IntelliJ IDEA, JDK 11, Maven]
+description: A comprehensive guide to setting up RuneLite for development and building using IntelliJ IDEA, JDK 11, and Maven.
+authors: 
+  - harmindersinghnijjar
+date: 
+  created: 2024-02-04
+tags: 
+  - RuneLite
+  - IntelliJ IDEA
+  - JDK 11
+  - Maven
+categories: 
+  - RuneLite
+  - Development
+  - IntelliJ IDEA
+  - Maven
 toc: true
 comments: true
+status: published
 ---
+
 
 Setting up RuneLite for building with IntelliJ IDEA involves several steps. Here's a step-by-step guide to get you started:
 

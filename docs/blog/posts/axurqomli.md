@@ -1,12 +1,27 @@
 ---
 title: Automating DVR Surveillance Feed Analysis Using Selenium and Python
-description: Using Selenium and Python to automate DVR surveillance feed analysis for enhanced security and monitoring.
-authors: [harmindersinghnijjar]
-date: 2023-12-04
-tags: [Selenium, Python, Computer Vision, Surveillance, DVR]
-categories: [Selenium, Python, Computer Vision, Surveillance, DVR]
+description: A step-by-step guide on automating DVR surveillance feed analysis with Python and Selenium for improved security and monitoring.
+authors: 
+  - harmindersinghnijjar
+date: 
+  created: 2023-12-04
+tags: 
+  - Selenium
+  - Python
+  - Computer Vision
+  - Surveillance
+  - DVR
+categories: 
+  - Automation
+  - Computer Vision
+  - Surveillance
+  - Python
+  - Selenium
+toc: true
 comments: true
+status: published
 ---
+
 
 # Automating DVR Surveillance Feed Analysis Using Selenium and Python
 

@@ -1,12 +1,24 @@
 ---
 title: Progress Log - RunescapeGPT
-very short description: Progress Log for RunescapeGPT - A Runescape ChatGPT Bot.
-authors: [harmindersinghnijjar]
-date: 2023-11-16
-tags: [RunescapeGPT, AI, Language Model, Transformer, OpenAI, GPT]
-categories: [Runescape, AI, Language Model, Transformer]
+description: Tracking the development and updates for RunescapeGPT, an AI-powered bot integrating ChatGPT capabilities into Runescape gameplay.
+authors:
+  - harmindersinghnijjar
+date: 
+  created: 2023-11-16
+tags: 
+  - RunescapeGPT
+  - AI
+  - Language Model
+  - Transformer
+  - OpenAI
+  - GPT
+categories: 
+  - Runescape
+  - AI
+  - Development Log
 toc: true
 comments: true
+status: in-progress
 ---
 
 # Progress Update: RunescapeGPT - A Runescape ChatGPT Bot

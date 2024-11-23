@@ -21,6 +21,8 @@ permalink: /
 
   <!-- Tailwind CSS -->
   <link href="https://unpkg.com/tailwindcss@latest/dist/tailwind.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="https://www.mkdocs.org/favicon.ico" type="image/x-icon">
@@ -38,6 +40,52 @@ permalink: /
 </head>
 
 <body>
+<div
+  style="
+    overflow: hidden;
+    position: relative;
+    background-color: #1a202c; /* Tailwind's bg-gray-900 */
+    color: white;
+    height: 48px; /* Tailwind's h-12 */
+    display: flex;
+    align-items: center;
+  "
+>
+  <div
+    style="
+      display: flex;
+      align-items: center;
+      white-space: nowrap;
+      gap: 2rem; /* Tailwind's space-x-8 */
+      padding: 0 1rem; /* Tailwind's px-4 */
+      animation: scroll 15s linear infinite;
+      background-image: url('https://www.runescape.com/img/rsp777/grand_exchange/ticker.gif');
+      background-repeat: repeat;
+      background-size: cover;
+      width: 200%;
+    "
+  >
+    <span>Breaking News: Item 1</span>
+    <span>Breaking News: Item 2</span>
+    <span>Breaking News: Item 3</span>
+    <span>Breaking News: Item 4</span>
+  </div>
+</div>
+
+<style>
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+</style>
+
+
+
+
   <div class="flex flex-wrap -mx-4">
     <!-- Left Column: Large Card on the Top, Third Card on the Bottom -->
     <div class="w-full lg:w-2/3 px-4">
@@ -45,7 +93,7 @@ permalink: /
       <div class="mb-4 p-8 rounded-lg shadow-2xl hover:shadow-xl hover:-translate-y-1 transform transition bg-teal-100 text-center">
         <h1 class="text-2xl font-bold mb-4 text-teal-900 hover:text-teal-600">Harminder's Knowledge Base</h1>
         <p class="text-teal-700 mb-4">
-        This is a repository of my personal knowledge that I'm committed to updating whenever I find interesting information, code worth sharing, or any intellectual rabbit hole I go down. My primary interests at the moment are machine learning-based web automation solutions such as web scraping liquidation auctions and online marketplaces, Home Assistant, self-hosted services (Snipe-IT, osTicket), 3D printing and design, and applying robotics to real-world problems.
+        This is a repository of my personal knowledge that I'm committed to updating whenever I find interesting information, code worth sharing, or any intellectual rabbit hole I go down. My primary interests at the moment are machine learning-based web automation solutions such as web scraping liquidation auctions and online marketplaces, Home Assistant, self-hosted services, 3D printing and design, and applying robotics to real-world problems.
         </p>
         <p class="text-teal-700 mb-4">
         I'm an undergraduate student at Columbia Basin College enrolled in the Software Development Bachelor of Applied Science (BAS) program.
@@ -201,6 +249,26 @@ permalink: /
 
   // Add an event listener to call adjustFontSize when the window resizes
   window.addEventListener('resize', adjustFontSize);
+</script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+  const tickerWrap = document.querySelector('.ticker-wrap');
+  const speed = 50; // Adjust scrolling speed
+  const scrollWidth = tickerWrap.scrollWidth;
+
+  let offset = 0;
+
+  function scrollTicker() {
+    offset -= 1;
+    if (Math.abs(offset) >= scrollWidth) {
+      offset = 0; // Reset scroll position
+    }
+    tickerWrap.style.transform = `translateX(${offset}px)`;
+    requestAnimationFrame(scrollTicker);
+  }
+
+  scrollTicker();
+});
 </script>
 </body>
 </html>

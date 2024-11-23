@@ -1,12 +1,24 @@
 ---
 title: Available Voices from ElevenLabs API in November 2023
-description: Explore the diverse range of voices available from ElevenLabs API, perfect for various use cases like narration and video game character voices.
-authors: [harmindersinghnijjar]
-date: 2023-11-06
-tags: [API, Text-to-Speech, ElevenLabs, Voices, Narration, Video Games]
-categories: [API, Text-to-Speech, ElevenLabs]
+description: Discover the diverse range of voices offered by the ElevenLabs API, suitable for applications like narration, video games, and more.
+authors: 
+  - harmindersinghnijjar
+date: 
+  created: 2023-11-06
+tags: 
+  - API
+  - Text-to-Speech
+  - ElevenLabs
+  - Voices
+  - Narration
+  - Video Games
+categories: 
+  - API
+  - Text-to-Speech
+  - ElevenLabs
 toc: true
 comments: true
+status: published
 ---
 
 ## Voice Profiles

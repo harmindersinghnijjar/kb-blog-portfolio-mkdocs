@@ -1,10 +1,20 @@
 ---
 title: How to Write a Simple Woodcutting Script Using DreamBot API in 2024
 description: A step-by-step guide to creating a simple woodcutting script using the DreamBot API in 2024.
-authors: [harmindersinghnijjar]
-date: 2024-01-30
-tags: [DreamBot, Java, Woodcutting, Scripting]
-categories: [DreamBot, Java, Woodcutting, Scripting]
+authors: 
+  - harmindersinghnijjar
+date: 
+  created: 2024-01-30
+tags: 
+  - DreamBot
+  - Java
+  - Woodcutting
+  - Scripting
+categories: 
+  - DreamBot
+  - Java
+  - Woodcutting
+  - Scripting
 toc: true
 comments: true
 ---

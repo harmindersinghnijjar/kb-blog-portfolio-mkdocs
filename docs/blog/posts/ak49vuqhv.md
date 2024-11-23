@@ -1,12 +1,25 @@
 ---
 title: OSRS Money Making Guide 2024 - How to Earn a Free RuneScape Bond
-description: Help the OSRS community and earn a bond!
-authors: [harmindersinghnijjar]
-date: 2023-11-05
-tags: [OSRS, RuneScape, Money Making, Guide, Bond]
-categories: [OSRS, RuneScape]
+description: A comprehensive guide to earning free RuneScape bonds in OSRS through effective money-making strategies and community contributions.
+authors: 
+  - harmindersinghnijjar
+date: 
+  created: 2023-11-05
+tags: 
+  - OSRS
+  - RuneScape
+  - Money Making
+  - Guide
+  - Bond
+categories: 
+  - OSRS
+  - RuneScape
+  - Money Making
+toc: true
 comments: true
+status: published
 ---
+
 
 # OSRS Money Making Guide 2024 - How to Earn a Free RuneScape Bond
 

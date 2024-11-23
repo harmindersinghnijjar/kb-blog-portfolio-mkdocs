@@ -1,13 +1,25 @@
 ---
 title: QIDI Plus 4 Issues and Request for Replacement or Refund
-description: A detailed account of safety concerns and malfunctioning issues with the QIDI Plus 4 3D printer, including a request for replacement or refund.
-authors: [harmindersinghnijjar]
-date: 2024-11-03
-tags: [QIDI Plus 4, 3D Printing, Product Review, Printer Issues, Safety]
-categories: [3D Printing, Product Reviews, Safety Concerns]
+description: An in-depth account of safety concerns and malfunctioning issues with the QIDI Plus 4 3D printer, along with a formal request for replacement or refund.
+authors: 
+  - harmindersinghnijjar
+date: 
+  created: 2024-11-03
+tags: 
+  - QIDI Plus 4
+  - 3D Printing
+  - Product Review
+  - Printer Issues
+  - Safety
+categories: 
+  - 3D Printing
+  - Product Reviews
+  - Safety Concerns
 toc: true
 comments: true
+status: published
 ---
+
 
 
 # QIDI Plus 4 SSR Issues and Request for Replacement or Refund

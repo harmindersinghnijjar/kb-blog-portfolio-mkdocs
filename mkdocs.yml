@@ -97,22 +97,22 @@ plugins:
       add_authors: false
   - minify:
       minify_html: true
-  - social:
-      cards_layout_options:
-        background_color: '#151819'
-        color: '#5FFFD7'
+  # - social:
+  #     cards_layout_options:
+  #       background_color: '#151819'
+  #       color: '#5FFFD7'
   - blog:
       authors_file: 'blog/.authors.yaml'
       post_url_format: "{date}/{slug}"
       post_url_max_categories: 2
   - mkdocs-video
-  # - git-revision-date-localized:
-  #    enable_creation_date: true
-  #    fallback_to_build_date: true
-  # - git-committers:
-  #     repository: harmindersinghnijjar/kb-blog-portfolio-mkdocs
-  #     branch: main
-  # - git-authors
+  - git-revision-date-localized:
+     enable_creation_date: true
+     fallback_to_build_date: true
+  - git-committers:
+      repository: harmindersinghnijjar/kb-blog-portfolio-mkdocs
+      branch: main
+  - git-authors
 
 
 # Extensions

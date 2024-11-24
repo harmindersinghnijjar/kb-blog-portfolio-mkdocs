@@ -33,14 +33,9 @@ def dict_to_mkdocs_nav(nav_dict, indent=0):
     return mkdocs_nav
 
 
-# Get the directory structure starting from 'areas'
-areas_nav_dict = generate_nav_dict(
-    "./areas"
-)  # Replace with the path to your 'areas' directory
-
-# Convert the dictionary to mkdocs format
-mkdocs_nav = dict_to_mkdocs_nav(areas_nav_dict)
-
-# Print the result
-print("nav:")
+# Generate the navigation dictionary
+nav_dict = generate_nav_dict("site")
+# Convert to mkdocs nav format
+mkdocs_nav = dict_to_mkdocs_nav(nav_dict)
+# Print the mkdocs nav format
 print(mkdocs_nav)

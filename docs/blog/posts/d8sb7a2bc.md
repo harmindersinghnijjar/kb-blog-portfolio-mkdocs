@@ -1,5 +1,6 @@
 ---
 title: Hosting MkDocs Documentation on GitHub Pages
+<<<<<<< HEAD
 description: A step-by-step guide to hosting your MkDocs documentation on GitHub Pages, enabling you to share your static site documentation online effortlessly.
 authors: 
   - harmindersinghnijjar
@@ -22,6 +23,17 @@ status: published
 ---
 
 
+=======
+description: This guide will walk you through the process of hosting your MkDocs documentation on GitHub Pages. By following these steps, you can make your documentation accessible online and easily share it with others.
+authors: [harmindersinghnijjar]
+date: 2023-11-27
+tags: [MkDocs, GitHub Pages, Documentation, Static Site Generator, Python]
+categories: [MkDocs, GitHub Pages, Documentation, Static Site Generator, Python]
+toc: true
+comments: true
+---
+
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
 # Hosting MkDocs Documentation on GitHub Pages
 
 This guide will walk you through the process of hosting your MkDocs documentation on GitHub Pages. By following these steps, you can make your documentation accessible online and easily share it with others.

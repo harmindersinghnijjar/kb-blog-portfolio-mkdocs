@@ -1,5 +1,6 @@
 ---
 title: Transferring Files Between WSL and Windows
+<<<<<<< HEAD
 description: Learn how to transfer files seamlessly between WSL and Windows using simple and secure methods like SCP and file system integration.
 authors: 
   - harmindersinghnijjar
@@ -24,6 +25,17 @@ status: published
 ---
 
 
+=======
+description: In this tutorial, you will learn how to transfer files between WSL and Windows.
+authors: [harmindersinghnijjar]
+date: 2023-11-21
+tags: [WSL, Windows, Ubuntu, Linux, File Transfer, SCP, Secure Copy]
+categories: [WSL, Windows, Ubuntu, Linux]
+toc: true
+comments: true
+---
+
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
 # Transferring Files Between WSL and Windows
 
 ![ubuntu_kv3lhrpES3.png](../../resources/Images/ubuntu_kv3lhrpES3.png)

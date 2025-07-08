@@ -1,5 +1,6 @@
 ---
 title: Productivity Tools in 2024
+<<<<<<< HEAD
 description: A curated list of my productivity stack for 2024, focusing on efficiency and cutting down on unnecessary subscriptions.
 authors: 
   - harmindersinghnijjar
@@ -19,6 +20,15 @@ categories:
 toc: true
 comments: true
 status: published
+=======
+description: I'll be cutting down on subscriptions in 2024, this is my productivity stack for the year.
+authors: [harmindersinghnijjar]
+date: 2023-12-03
+tags: [Productivity, GitHub Copilot, Evernote, Raindrop.io, Google Calendar]
+categories: [Productivity, GitHub Copilot, Evernote, Raindrop.io, Google Calendar]
+toc: true
+comments: true
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
 ---
 
 # Productivity Tools in 2024

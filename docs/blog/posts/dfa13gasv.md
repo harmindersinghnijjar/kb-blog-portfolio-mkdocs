@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Setting Up Your Development Environment for DreamBot Scripting - IntelliJ IDEA
 description: A comprehensive guide to configuring your development environment for DreamBot scripting using IntelliJ IDEA, including setup, debugging, and best practices.
 authors: 
@@ -21,6 +22,18 @@ status: published
 ---
 
 
+=======
+title: Setting Up Your Development Environment For DreamBot Scripting - Intellij IDEA
+description: A step-by-step guide to setting up your development environment for DreamBot scripting using Intellij IDEA.
+authors: [harmindersinghnijjar]
+date: 2024-01-30
+tags: [DreamBot, Java, Scripting, Intellij IDEA]
+categories: [DreamBot, Java, Scripting, Intellij IDEA]
+toc: true
+comments: true
+---
+
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
 # Setting Up Your Development Environment For DreamBot Scripting: Intellij IDEA
 
 In this tutorial, we'll guide you through the process of setting up your development environment for DreamBot scripting. This setup will enable you to create and execute your own scripts.

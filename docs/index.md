@@ -21,8 +21,11 @@ permalink: /
 
   <!-- Tailwind CSS -->
   <link href="https://unpkg.com/tailwindcss@latest/dist/tailwind.min.css" rel="stylesheet">
+<<<<<<< HEAD
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
+=======
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="https://www.mkdocs.org/favicon.ico" type="image/x-icon">
@@ -40,6 +43,7 @@ permalink: /
 </head>
 
 <body>
+<<<<<<< HEAD
 <div
   style="
     overflow: hidden;
@@ -86,6 +90,8 @@ permalink: /
 
 
 
+=======
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
   <div class="flex flex-wrap -mx-4">
     <!-- Left Column: Large Card on the Top, Third Card on the Bottom -->
     <div class="w-full lg:w-2/3 px-4">
@@ -93,6 +99,7 @@ permalink: /
       <div class="mb-4 p-8 rounded-lg shadow-2xl hover:shadow-xl hover:-translate-y-1 transform transition bg-teal-100 text-center">
         <h1 class="text-2xl font-bold mb-4 text-teal-900 hover:text-teal-600">Harminder's Knowledge Base</h1>
         <p class="text-teal-700 mb-4">
+<<<<<<< HEAD
         This is a repository of my personal knowledge that I'm committed to updating whenever I find interesting information, code worth sharing, or any intellectual rabbit hole I go down. My primary interests at the moment are machine learning-based web automation solutions such as web scraping liquidation auctions and online marketplaces, Home Assistant, self-hosted services, 3D printing and design, and applying robotics to real-world problems.
         </p>
         <p class="text-teal-700 mb-4">
@@ -100,6 +107,20 @@ permalink: /
         </p>
         <div class="mt-6">
           <a href="https://www.linkedin.com/in/harmindersinghnijjar/" target="_blank" rel="noopener noreferrer" class="text-teal-500 hover:text-teal-600 hover:underline">Connect with me on LinkedIn.</a>
+=======
+          A repository of personal knowledge that I update from time to time when I find interesting information, code or go down a rabbit hole of learning.
+
+        </p>
+        <p class="text-teal-700 mb-4">
+          <!-- Some other areas of interest of mine include: intelligent single and multi-agent systems, cognitive frameworks, and productivity. -->
+          I'm currently looking into assest and inventory management systems, and how they can be improved using machine learning, autonmous ground vehicles and drones, home automation and CAD design for 3D printing.
+        </p>
+        <p class="text-teal-700 mb-4">
+          I also blog about my experiences and learnings on a nearly daily basis as I find it to be a creative outlet, a way of documenting my journey and a way to stay motivated and accountable.
+        </p>
+        <div class="mt-6">
+          <a href="https://www.linkedin.com/in/harmindersinghnijjar/" target="_blank" rel="noopener noreferrer" class="text-teal-500 hover:text-teal-600 hover:underline">You can reach out to me on LinkedIn.</a>
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
         </div>
       </div>
 
@@ -210,12 +231,20 @@ permalink: /
   }
 
   // Replace 'yourPlayerName' with the actual player name
+<<<<<<< HEAD
   fetchAndDisplayOSRSWeeklyGains('xogsherjattx');
+=======
+  fetchAndDisplayOSRSWeeklyGains('smfddumbho');
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
 
   // Add an image on the bottom of the card with the remaining height to fill the card
   const osrsWeeklyStatsGainedCard = document.getElementById('osrs-weekly-stats-gained-card');
   const osrsWeeklyStatsGainedCardImage = document.createElement('img');
+<<<<<<< HEAD
   osrsWeeklyStatsGainedCardImage.src = 'https://raw.githubusercontent.com/harmindersinghnijjar/face/main/fotor_2023-8-13_21_49_31-fotor-2023081322615.png';
+=======
+  osrsWeeklyStatsGainedCardImage.src = 'github.png';
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
 
   // Add the image to the card if there is extra space (typically on larger screens)
   if (osrsWeeklyStatsGainedCard.offsetHeight > 400) {
@@ -250,6 +279,7 @@ permalink: /
   // Add an event listener to call adjustFontSize when the window resizes
   window.addEventListener('resize', adjustFontSize);
 </script>
+<<<<<<< HEAD
 <script>
   document.addEventListener('DOMContentLoaded', () => {
   const tickerWrap = document.querySelector('.ticker-wrap');
@@ -270,5 +300,7 @@ permalink: /
   scrollTicker();
 });
 </script>
+=======
+>>>>>>> e525c68f31edabb84fb4f95da4ea4acff4833ec0
 </body>
 </html>
